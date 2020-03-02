@@ -3,7 +3,8 @@ package com.abdallah.gamiphy.demolibrary;
 import android.util.Log;
 
 public class Print {
-    public Print(){
-        Log.d("AutherName","Abdallah AbuSalah");
+
+    public static void printOnLog(String stringToPrint){
+        Log.d("LibraryDemo",stringToPrint);
     }
 }
