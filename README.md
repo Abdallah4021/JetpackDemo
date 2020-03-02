@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/Abdallah4021/JetpackDemo/blob/master/blur-close-up-code-computer-546819.jpg)
 
-JetpackDemo is a demo application to learn how to create Andrtoid 3'rd party. 
+JetpackDemo is a demo application to learn how to create an Android 3'rd party.
 
 ## Including in your project
 
